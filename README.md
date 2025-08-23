@@ -252,7 +252,7 @@ Example layout—adapt to your stack.
 
 ## API
 
-Document main endpoints. Example (REST):
+ Example (REST):
 
 ```
 GET    /api/health        -> 200 OK
