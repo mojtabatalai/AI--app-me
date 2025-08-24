@@ -267,11 +267,6 @@ Or link to an OpenAPI/Swagger spec hosted at `/docs`.
 * List main tables/collections and relationships
 * Mention migration tool (Prisma, Alembic, Flyway, Liquibase)
 
-## Roadmap
-
-* [ ] Milestone 1 …
-* [ ] Milestone 2 …
-* [ ] Milestone 3 …
 
 ## Contributing
 
