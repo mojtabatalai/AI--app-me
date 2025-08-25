@@ -38,8 +38,7 @@ An open-source AI agent framework that allows developers to build, customize, an
 
 ## Overview
 
-A short description of what the project does, who it is for, and why it exists. Mention the problem it solves and any unique approach or innovation.
-
+A short description of what the project does, who it is for, and why it exists. 
 **Demo:**
 
 * Live: https\://YOUR\_DOMAIN (optional)
