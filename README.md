@@ -67,7 +67,6 @@ A short description of what the project does, who it is for, and why it exists.
 
 High‑level diagram or description of how components interact.
 
-```
 client ──► API ──► DB
    ▲         │
    └── auth ─┘
