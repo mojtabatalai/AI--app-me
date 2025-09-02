@@ -7,6 +7,7 @@ An open-source AI agent framework that allows developers to build, customize, an
 ![Build](https://img.shields.io/badge/build-passing-lightgrey) ![License](https://img.shields.io/badge/license-MIT-informational) ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
+power
 ok done
 ## Table of Contents
 
