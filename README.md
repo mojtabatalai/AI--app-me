@@ -92,6 +92,8 @@ For more details, see \[`/docs/architecture.md`].
 Clone and install dependencies.
 
 ```bash
+
+go to txxt
 # HTTPS
 git clone https://github.com/YOUR_ORG/YOUR_REPO.git
 # SSH
