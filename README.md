@@ -17,7 +17,7 @@ import lxp linea
 * [Tech Stack](#tech-stack)
 * [Architecture](#architecture)
 * [Getting Started](#getting-started)
-
+good powerful date
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
   * [Configuration](#configuration)
