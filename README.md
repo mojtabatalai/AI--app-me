@@ -11,7 +11,7 @@ good power
 hp zbook
 amazing
 vjvkb
-
+removed xp
 vjv
 nn
 ## Table of Contents
