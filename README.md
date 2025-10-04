@@ -339,7 +339,7 @@ coverage
 ```
 
 **Badges (replace values):**
-
+ama testnet 10/04/2025
 ```
 ![CI](https://github.com/YOUR_ORG/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://img.shields.io/codecov/c/github/YOUR_ORG/YOUR_REPO)
