@@ -345,3 +345,8 @@ ama testnet 10/04/2025
 ![Coverage](https://img.shields.io/codecov/c/github/YOUR_ORG/YOUR_REPO)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ```
+A new special mission is upon us.
+
+3 PM GMT | Tuesday, Oct 7
+
+ Will you answer the call?
