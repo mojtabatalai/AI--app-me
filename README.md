@@ -337,6 +337,7 @@ yarn-error.log*
 /build
 coverage
 ```
+Does Grok 4 connect to xAI systems?
 
 **Badges (replace values):**
 ama testnet 10/04/2025
