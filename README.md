@@ -7,13 +7,7 @@ An open-source AI agent framework that allows developers to build, customize, an
 ![Build](https://img.shields.io/badge/build-passing-lightgrey) ![License](https://img.shields.io/badge/license-MIT-informational) ![Status](https://img.shields.io/badge/status-active-brightgreen)
 go to kyc
 xp
-hp zbook
-amazing
-vjvkb
-removed xp
-buil xp over
-nn
-jbb
+
 ## Table of Contents
 import lxp linea
 * [Overview](#overview)
