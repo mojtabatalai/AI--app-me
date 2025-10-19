@@ -341,7 +341,6 @@ ama testnet 10/04/2025
 ```
 A new special mission is upon us.
 
-3 PM GMT | Tuesday, Oct 7
 
  Will you answer the call?
 The Brevis Yapper Leaderboard is LIVE on 
