@@ -354,4 +354,3 @@ Time to $CHECK in and gib alfa
 
 1) Ethernals NFT snapshot will happen 10/22 (Thu) 0800 GMT, it will be a snapshot for the collector bonus + the 1st release of vested $CHECK 
 2) Kaito Earn coming (pending legal) - Top 200 yappers will be rewarded every month, 1st release Dec 1
-apt! the sophistication it brings to dapps is on another level
