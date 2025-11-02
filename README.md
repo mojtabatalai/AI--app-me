@@ -351,5 +351,3 @@ This isn't your typical "post about us, get tokens" setup. You get that too, but
 
 Let's take a look at how Brevis just innovated the world of InfoFi.
 Time to $CHECK in and gib alfa
-
-1) Ethernals NFT snapshot will happen 10/22 (Thu) 0800 GMT, it will be a snapshot for the collector bonus + the 1st release of vested $CHECK 
