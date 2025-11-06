@@ -348,6 +348,3 @@ The Brevis Yapper Leaderboard is LIVE on
 !
 
 This isn't your typical "post about us, get tokens" setup. You get that too, but it's more!
-
-Let's take a look at how Brevis just innovated the world of InfoFi.
-Time to $CHECK in and gib alfa
