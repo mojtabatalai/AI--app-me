@@ -340,11 +340,3 @@ ama testnet 10/04/2025
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ```
 A new special mission is upon us.
-
-
- Will you answer the call?
-The Brevis Yapper Leaderboard is LIVE on 
-@KaitoAI
-!
-
-This isn't your typical "post about us, get tokens" setup. You get that too, but it's more!
