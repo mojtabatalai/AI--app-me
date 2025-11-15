@@ -339,3 +339,4 @@ ama testnet 10/04/2025
 ![Coverage](https://img.shields.io/codecov/c/github/YOUR_ORG/YOUR_REPO)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 https://claim.beamable.network/flow
+if anyone’s having issues with the fogo testnet i can help out in any way i can just tag me or drop it here  
