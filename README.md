@@ -340,3 +340,23 @@ ama testnet 10/04/2025
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ttps://claim.beamable.network/flow
 if anyone’s having issues with the fogo testnet i can help out in any way i can just tag me or drop it here  
+ ANNOUNCEMENT — LAST OG SLOTS REMAINING!
+
+Hey @everyone!
+We’re reaching the final phase - only ~1,500 OG roles left before we are completely full.
+If you haven’t claimed your OG role yet, please do it ASAP!
+
+All upcoming news will be released gradually (rolling updates). Stay tuned, more exciting things are coming soon.
+------------
+
+ Special Thanks to Our Community
+
+We want to express our sincere appreciation for the support from everyone, including:
+
+• All @Server Booster who helped boost the project
+• Our two @LIFE supporter  who assisted the community
+(Please note: supporters are NOT part of the core team. Always double-check any information from non-core accounts and practice DYOR to stay safe.)
+• @iameXOX-LIFE AI - an active member who created the LIFE sticker pack.
+• And @everyone interacting with us daily.
+
+Every contribution is recognized and valued. Let’s continue building LIFE AI community together.
