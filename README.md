@@ -358,5 +358,3 @@ We want to express our sincere appreciation for the support from everyone, inclu
 (Please note: supporters are NOT part of the core team. Always double-check any information from non-core accounts and practice DYOR to stay safe.)
 • @iameXOX-LIFE AI - an active member who created the LIFE sticker pack.
 • And @everyone interacting with us daily.
-
-Every contribution is recognized and valued. Let’s continue building LIFE AI community together.
