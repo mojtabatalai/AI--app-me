@@ -348,11 +348,9 @@ If you haven’t claimed your OG role yet, please do it ASAP!
 
 All upcoming news will be released gradually (rolling updates). Stay tuned, more exciting things are coming soon.
 ------------
-
  Special Thanks to Our Community
-
 We want to express our sincere appreciation for the support from everyone, including:
-
+talaitabarseyedmojtaba@outlook.com
 • All @Server Booster who helped boost the project
 • Our two @LIFE supporter  who assisted the community
 (Please note: supporters are NOT part of the core team. Always double-check any information from non-core accounts and practice DYOR to stay safe.)
