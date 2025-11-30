@@ -357,3 +357,4 @@ talaitabarseyedmojtaba@outlook.com
 • @iameXOX-LIFE AI - an active member who created the LIFE sticker pack.
 MHave you compared Qwen with DeepSeek R1 recently?
 https://testnet.bitverse.zone/app/?token=BTC-USD
+Are notifications overwhelming for your team now?
