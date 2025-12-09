@@ -354,6 +354,3 @@ talaitabarseyedmojtaba@outlook.com
 • All @Server Booster who helped boost the project
 • Our two @LIFE supporter  who assisted the community
 (Please note: supporters are NOT part of the core team. Always double-check any information from non-core accounts and practice DYOR to stay safe.)
-• @iameXOX-LIFE AI - an active member who created the LIFE sticker pack.
-MHave you compared Qwen with DeepSeek R1 recently?
-https://testnet.bitverse.zone/app/?token=BTC-USD
