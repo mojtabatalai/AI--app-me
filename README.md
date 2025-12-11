@@ -71,8 +71,7 @@ High‑level diagram or description of how components interact.
 client ──► API ──► DB
    ▲         │
    └── auth ─┘
-```
-
+``
 * **Client**: SPA/SSR app
 * **API**: REST/GraphQL
 * **DB**: Relational/NoSQL
