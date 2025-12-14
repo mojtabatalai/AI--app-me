@@ -346,3 +346,4 @@ We’re reaching the final phase - only ~1,500 OG roles left before we are compl
 If you haven’t claimed your OG role yet, please do it ASAP!
 
 All upcoming news will be released gradually (rolling updates). Stay tuned, more exciting things are coming soon.
+https://aithereumnetwork.com/
