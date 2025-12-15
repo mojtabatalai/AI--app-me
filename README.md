@@ -340,7 +340,7 @@ ama testnet 10/04/2025
 ttps://claim.beamable.network/flow
 if anyone’s having issues with the fogo testnet i can help out in any way i can just tag me or drop it here  
  ANNOUNCEMENT — LAST OG SLOTS REMAINING!
-
+https://medium.com/@M1405Talai/what-is-a-ctasset-and-why-does-it-matter-in-defi-fd22a2ceb897
 Hey @everyone!
 We’re reaching the final phase - only ~1,500 OG roles left before we are completely full.
 If you haven’t claimed your OG role yet, please do it ASAP!
