@@ -344,7 +344,5 @@ https://medium.com/@M1405Talai/what-is-a-ctasset-and-why-does-it-matter-in-defi-
 Hey @everyone!
 We’re reaching the final phase - only ~1,500 OG roles left before we are completely full.
 If you haven’t claimed your OG role yet, please do it ASAP!
-
 All upcoming news will be released gradually (rolling updates). Stay tuned, more exciting things are coming soon.
-https://aithereumnetwork.com/
-M251167m@
+Have you noticed which model performs better for daily tasks?
