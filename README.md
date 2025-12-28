@@ -349,3 +349,4 @@ All upcoming news will be released gradually (rolling updates). Stay tuned, more
 Have you noticed which model performs better for daily tasks?
 Was Qwen3 32B your first pick again?
 Merry Christmas 🎄❤
+yeah there’s plenty to explore and get involved in here
